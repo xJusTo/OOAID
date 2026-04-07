@@ -1,1 +1,1 @@
-System.Console.WriteLine("Программа запущена. Введите данные:");
+using System;
